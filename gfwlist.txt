@@ -660,6 +660,7 @@ www.aolnews.com
 .ns2.name
 .ns3.name
 .ocry.com
+.ip138.com
 .onedumb.com
 .onmypc.biz
 .onmypc.info
