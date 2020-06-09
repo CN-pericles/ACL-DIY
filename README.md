@@ -1,11 +1,11 @@
 # ACL-DIY
-ACL更新地址（白名单）：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/banAD.acl
+ACL更新地址（白名单）：https://raw.githubusercontent.com/CN-pericles/ACL-DIY/master/banAD.acl
 
-ACL更新地址（黑名单）：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/gfwlist-banAD.acl
+ACL更新地址（黑名单）：https://raw.githubusercontent.com/CN-pericles/ACL-DIY/master/gfwlist-banAD.acl
 
-ACL更新地址（全局）：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/onlybanAD.acl
+ACL更新地址（全局）：https://raw.githubusercontent.com/CN-pericles/ACL-DIY/master/onlybanAD.acl
 
-ACL更新地址（仅GFWList）：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/fullgfwlist.acl （原版SS能且仅能使用此规则）
+ACL更新地址（仅GFWList）：https://raw.githubusercontent.com/CN-pericles/ACL-DIY/master/fullgfwlist.acl （原版SS能且仅能使用此规则）
 
 ACL更新地址（国内代理）：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/backcn-banAD.acl
 
